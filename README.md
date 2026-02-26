@@ -1,53 +1,63 @@
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/virtuan4-max/ghostlinkhub@main/assets/logo.png" width="300" />
+</p>
+
+
+---
+> [![Deploy to Vercel](https://binbashbanana.github.io/deploy-buttons/buttons/remade/vercel.svg)](https://vercel.com/new/clone?repository-url=https://github.com/virtuan4-max/ghostlinkhub)
+> [![Deploy to Heroku](https://binbashbanana.github.io/deploy-buttons/buttons/remade/heroku.svg)](https://heroku.com/deploy/?template=https://github.com/virtuan4-max/ghostlinkhub)
+> [![Run on Replit](https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg)](https://replit.com/github/virtuan4-max/ghostlinkhub)
+> [![Run on Glitch](https://binbashbanana.github.io/deploy-buttons/buttons/remade/glitch.svg)](https://glitch.com/edit/#!/import/github/virtuan4-max/ghostlinkhub)
+> [![Deploy to Amplify](https://binbashbanana.github.io/deploy-buttons/buttons/remade/amplifyconsole.svg)](https://console.aws.amazon.com/amplify/home#/deploy?repo=https://github.com/virtuan4-max/ghostlinkhub)
+> [![Run on Google Cloud](https://binbashbanana.github.io/deploy-buttons/buttons/remade/googlecloud.svg)](https://deploy.cloud.run/?git_repo=https://github.com/virtuan4-max/ghostlinkhub)
+> [![Deploy to Oracle](https://binbashbanana.github.io/deploy-buttons/buttons/remade/oraclecloud.svg)](https://cloud.oracle.com/resourcemanager/stacks/create?zipUrl=https://github.com/virtuan4-max/ghostlinkhub/archive/refs/heads/main.zip)
+> [![Deploy on Railway](https://binbashbanana.github.io/deploy-buttons/buttons/remade/railway.svg)](https://railway.app/new/template?template=https://github.com/virtuan4-max/ghostlinkhub)
+> [![Deploy to Netlify](https://binbashbanana.github.io/deploy-buttons/buttons/remade/netlify.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/virtuan4-max/ghostlinkhub)
+> [![Deploy to Koyeb](https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/virtuan4-max/ghostlinkhub&branch=main&name=ghostlinkhub)
+> [![Deploy to Render](https://binbashbanana.github.io/deploy-buttons/buttons/remade/render.svg)](https://render.com/deploy?repo=https://github.com/virtuan4-max/ghostlinkhub)
+---
 # ◈ GHOSTLINK (BluePineApple)
 
-"GhostLink is your all‑in‑one cyberpunk personal portal: a portable, customizable, quality‑first web environment built entirely on the client side."
-
-GhostLink is a modular, portable personal-portal framework built entirely with HTML, CSS, and JavaScript. It bundles entertainment, productivity, customization, and privacy tools into a single cohesive styled interface.
+"GhostLink is your all‑in‑one cyberpunk personal portal: a portable, customizable, quality‑first web environment built entirely on the client side." - That was AI, but you get the point lmao ;P
 
 ---
 
 ## CORE MISSION
-* **Fully Portable:** Easy-to-host website environment that runs anywhere.
-* **Unrestricted Access:** One-click entry to tools, games, and AI utilities.
-* **Lightweight:** Client-side only with zero server dependencies.
-* **Quality of Life:** A thematically cohesive and feature-packed web experience.
+* **Fully Portable:** Easy-to-host static html files that run basically anywhere.
+* **Unrestricted Access:** No barier of entry to tools, games, and AI.
+* **Lightweight:** Client-side only with (almost) zero server dependencies.
+* **Quality of Life:** A thematically cohesive and feature full web experience.
 
 ---
 
 ## GAMING HUB
-Access 600+ free HTML games, web ports, and browser-friendly tools powered by a customized gn-math script.
+Access 700+ free HTML games, web ports, and browser-friendly tools powered by a customized gn-math script.
 
 ---
 
 ## AI TERMINAL
 A powerful, local-first AI interface utilizing the Groq API for high-speed processing.
 
-* **Privacy First:** API keys are stored in local browser storage; no server required.
+* **Cloud API keys:** Free to use APO keys acessible for FREE from the cloud.
+* **Privacy First:** Any custom API keys are stored in local browser storage; no server required.
 * **Multimodal:** Supports image understanding and advanced vision tasks.
 * **Sleek UI:** Clean, streamlined terminal-style interface.
 * **High Performance:** Optimized for high token limits and rapid requests.
-* 
 ---
 
-## WEB PROXY (Experimental)
-*Currently in Research & Development phase (basically haven't started :')*
-
-* **Planned Features:**
-  * Unblocked browsing via integrated client-side/minimal server proxy.
-  * Multiple proxy engines with automatic fallback modes.
-  * URL encryption and obfuscation.
-  * Optional tab cloaking integration.
+## WEB PROXY (Nothing yet lol)
+*Currently in Research & Development phase (I haven't started :') idfk what i'm gonna do probably just use scramjet smh💀💀*
 
 ---
 
 ## UI SYSTEM & CUSTOMIZATION
-The heart of GhostLink is its highly responsive and customizable dashboard.
+The 'core' of GhostLink is its highly responsive and customizable dashboard.
 
-* **Dynamic HUD:** Real-time splash text, clock, battery status, network ping, and FPS counter.
-* **Aesthetic:** Smooth, animated UI with cyberpunk/hacker-terminal styling.
-* **Deep Customization:** Modify accent colors, fonts, and themes on the fly.
-* **Persistence:** All settings persist across tabs and browser sessions via LocalStorage.
-* **Tab Cloaking:** Preset or custom disguises.
+* **Dynamic HUD:** Splash text, clock, battery status, network ping, and FPS counter (all customizable)
+* **Aesthetic:** Smooth, animated UI with cyberpunk/hacker-terminalish styling.
+* **Deep Customization:** Modify like literally everything (for some reason)
+* **Persistence:** ALL settings persist across tabs and browser sessions via LocalStorage.
+* **Tab Cloaking:** Preset or custom disguises, about:blank, 
 * **Custom App System:** Install, edit, or delete your own HTML tools.
   * Built-in App Editor (HTML content, Name, Sidebar Icons).
   * SVG Icon library and sidebar pinning.
@@ -55,11 +65,13 @@ The heart of GhostLink is its highly responsive and customizable dashboard.
 * **Custom backgrounds**
 * **Customizable keyboard shortcuts** 
 * **Settings Import/Export**
-
+* **View repository files and download them**
+* **README and version** Click the ◈ in the sidebar to view the README.md and version history.
 
 ---
 
 ## PRIVACY & SECURITY
+* **NO ADS!!**
 * **No Tracking:** Zero server-side data collection.
 * **Local Storage:** All preferences and data stay in your browser.
 * **Secure Keys:** API keys never leave your client environment.
@@ -69,7 +81,7 @@ The heart of GhostLink is its highly responsive and customizable dashboard.
 ## DEVELOPER FRIENDLY
 * **Open Source:** Fully transparent and open files.
 * **Extensible:** Easy to modify, theme, or build upon.
-* **Clean Code:** Organized file structure for easy navigation.
+* **Clean Code:** Organized file structure for easy navigation (yes the code has comments no their not AI🥹🙏)
 * **Universal:** Works anywhere you can run a standard HTML file.
 
 ---
@@ -77,9 +89,9 @@ The heart of GhostLink is its highly responsive and customizable dashboard.
 ## GETTING STARTED
 GhostLink is built for Developers, Students, Privacy Advocates, and Gamers.
 
-1. **Download:** Grab the `ghostlinksinglefile.html`(large file) or `jsdlvrloader.html`(small loader) or any modular components.
+1. **Download:** Grab the `ghostlinksinglefile.html`(large file) or `jsdlvrloader.html`(small loader that lets you get auto updates) or any modular components.
 2. **Run:** Run the file anywhere you can run HTML.
-3. **Host:** Upload to GitHub Pages, Netlify, or any static hosting service.
+3. **Host:** Upload to GitHub Pages, Netlify, or any static hosting service (use the buttons for easy deployment)
 4. **Customize:** Mess around with site settings, add and install apps, and set-up the AI.
 
 ---
@@ -107,7 +119,7 @@ The `jsdlvrloader.html` file is designed to bypass filters and provide ultra-fas
 ```javascript
 (async () => { 
     // Replace 'username' and 'repo' with your GitHub details
-    const url = "[https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/YOUR_REPO@latest/customizable.html?v=](https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/YOUR_REPO@latest/customizable.html?v=)" + Date.now();
+    const url = "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/YOUR_REPO@latest/customizable.html?v=" + Date.now();
     const response = await fetch(url); 
     const html = await response.text(); 
     document.open(); 
@@ -121,7 +133,7 @@ Run your loader anywhere you can run html!
 ---
 
 ## CREDITS
-* **Lead Developer:** xRevan (me)
+* **Lead Developer:** xRevan (me, sole dev😜)
 * **Some AI**
 * **Gaming Scripts:** Built using customized gn-math scripts and community-sourced game ports.
 * **AI Engine:** Powered by Groq API integration.
