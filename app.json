@@ -1,10 +1,5 @@
 {
   "name": "ghostlinkhub",
   "description": "GhostLinkHub static site",
-  "repository": "https://github.com/virtuan4-max/ghostlinkhub",
-  "buildpacks": [
-    {
-      "url": "https://github.com/heroku/heroku-buildpack-static"
-    }
-  ]
+  "repository": "https://github.com/virtuan4-max/ghostlinkhub"
 }
